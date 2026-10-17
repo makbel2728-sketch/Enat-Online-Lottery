@@ -1,0 +1,24 @@
+{
+  "0910961881": {
+    "userId": "usr_0910961881",
+    "phone": "0910961881",
+    "fullName": "Makbel Maregu",
+    "username": "lij_makbel",
+    "password": "admin",
+    "isAdmin": true,
+    "walletBalance": 0,
+    "ticketsCount": 0,
+    "totalWon": 0,
+    "language": "am"
+  },
+  "0920561781": {
+    "userId": "usr_0920561781",
+    "phone": "0920561781",
+    "fullName": "Markon Makbel",
+    "password": "2728",
+    "walletBalance": 0,
+    "ticketsCount": 0,
+    "totalWon": 0,
+    "language": "am"
+  }
+}

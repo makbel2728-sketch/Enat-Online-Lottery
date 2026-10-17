@@ -1,0 +1,8 @@
+{
+  "name": "Gashena Online Lottery",
+  "description": "Secure Telegram bot and WebApp platform for online lottery ticket purchases, automated Telebirr and CBE Birr payments, live draw verification, winner push notifications, and administrative inventory monitoring in Amharic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
